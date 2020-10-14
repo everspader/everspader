@@ -42,7 +42,7 @@ Coming soon...
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="everspader's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=everspader&show_icons=true&hide_border=true" />
+  <img align="left" alt="everspader's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=everspader&&hide=stars&show_icons=true&hide_border=true" />
 
 </details>
 
