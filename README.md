@@ -3,18 +3,19 @@
 
 
 ## Engineer, developer, crossfiter and foodie!!
+
 - 🌍 Based in Copenhagen, Denmark
 - 💼 Currently looking for a job in software development.
 - 🤖 I just won an Instagram giveaway with my [bot](https://github.com/everspader/instagram-bot)
 - 📖 I’m currently learning a bit of everything 🤣
 - 🤓 2020 Goals: become a real software developer
 
+
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
 
-<br />
 
 ### Languages and Tools:
 
@@ -49,6 +50,6 @@ Coming soon...
     <img align="left" alt="everspader's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=everspader&&hide=stars&show_icons=true&hide_border=true" />
 </details>
 
-
 [instagram]: https://instagram.com/everspader
 [linkedin]: https://linkedin.com/in/evertonspader
+
