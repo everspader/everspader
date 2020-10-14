@@ -5,7 +5,7 @@
 ## Engineer, developer, crossfiter and foodie!!
 - 🌍 Based in Copenhagen, Denmark
 - 💼 Currently looking for a job in software development.
-- 🤖 I just won an Instagram giveaway with my bot
+- 🤖 I just won an Instagram giveaway with my [bot](https://github.com/everspader/instagram-bot)
 - 📖 I’m currently learning a bit of everything 🤣
 - 🤓 2020 Goals: become a real software developer
 
@@ -40,11 +40,9 @@ Coming soon...
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: GitHub Stats</summary>
 
-<!--START_SECTION:activity-->
-Coming Soon...
-<!--END_SECTION:activity-->
+  <img align="left" alt="everspader's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=everspader&show_icons=true&hide_border=true" />
 
 </details>
 
