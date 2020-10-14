@@ -40,11 +40,15 @@ Coming soon...
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="everspader's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=everspader&&hide=stars&show_icons=true&hide_border=true" />
-
+  <summary>:zap: Top Languages</summary>
+    <img align="left" alt="everspader's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everspader" />
 </details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+    <img align="left" alt="everspader's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=everspader&&hide=stars&show_icons=true&hide_border=true" />
+</details>
+
 
 [instagram]: https://instagram.com/everspader
 [linkedin]: https://linkedin.com/in/evertonspader
