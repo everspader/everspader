@@ -3,10 +3,10 @@
 ### Engineer, developer, crossfiter and foodie!!
 
 - 🌍 Based in Copenhagen, Denmark
-- 💼 Currently looking for a job in software development.
-- 🤖 I just won an Instagram giveaway with my [bot](https://github.com/everspader/instagram-bot)
+- 💼 Device Insights Team Lead and Developer @Omnio.net
+- 🤖 I won an Instagram giveaway with my [bot](https://github.com/everspader/instagram-bot)
 - 📖 I’m currently learning a bit of everything 🤣
-- 🤓 2020 Goals: become a real software developer
+- 🤓 2021 Goals: dive deep into software development and travel more
 
 
 ### Connect with me:
