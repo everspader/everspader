@@ -3,7 +3,7 @@
 ### Engineer, developer, crossfiter and foodie!!
 
 - 🌍 Based in Copenhagen, Denmark
-- 💼 Device Insights Team Lead and Developer @Omnio.net
+- 💼 DevOps & Cloud Lead @Omnio.net
 - 🤖 I won an Instagram giveaway with my [bot](https://github.com/everspader/instagram-bot)
 - 📖 I’m currently learning a bit of everything 🤣
 - 🤓 2021 Goals: dive deep into software development and travel more
@@ -44,10 +44,6 @@ Coming soon...
     <img align="left" alt="everspader's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everspader" />
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="everspader's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=everspader&&hide=stars&show_icons=true&hide_border=true" />
-</details>
 
 [instagram]: https://instagram.com/everspader
 [linkedin]: https://linkedin.com/in/evertonspader
