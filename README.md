@@ -3,11 +3,7 @@
 ### Engineer, developer, crossfiter and foodie!!
 
 - 🌍 Based in Copenhagen, Denmark
-- 💼 DevOps & Cloud Lead @Omnio.net
-- 🤖 I won an Instagram giveaway with my [bot](https://github.com/everspader/instagram-bot)
-- 📖 I’m currently learning a bit of everything 🤣
-- 🤓 2021 Goals: dive deep into software development and travel more
-
+- 💼 DevOps Engineer @Chain
 
 ### Connect with me:
 
